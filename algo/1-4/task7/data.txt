@@ -1,0 +1,11 @@
+﻿TESTS
+6 Insert 200 Insert 10 ExtractMax Insert 5 Insert 500 ExtractMax
+200 500 
+2 Insert 100 ExtractMax
+100 
+6 Insert 10 Insert 200 ExtractMax Insert 500 Insert 5 ExtractMax
+200 500 
+6 Insert 5 Insert 10 Insert 200 Insert 500 ExtractMax ExtractMax
+500 200 
+6 Insert 5 Insert 10 Insert 500 Insert 200  ExtractMax ExtractMax
+500 200 
