@@ -1,0 +1,2 @@
+LD_PRELOAD="libjemalloc.so" HEAPCHECK=normal ./mass_alloc
+

@@ -1,0 +1,2 @@
+LD_PRELOAD="libtcmalloc.so" HEAPCHECK=normal ./mass_alloc
+
