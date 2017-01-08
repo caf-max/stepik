@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1483380947 source:/home/maksim/Documents/stepik/mp/lesson4/boost_asio/main.cpp
+	<cstdlib>
+	<iostream>
+	<boost/bind.hpp>
+	<boost/asio.hpp>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483357018 source:/home/maksim/Documents/stepik/mp/lesson4/libev/main.c
+	<stdio.h>
+	<netinet/in.h>
+	<ev.h>
+

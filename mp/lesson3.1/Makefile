@@ -1,7 +1,7 @@
-all: build_server build_client build_echo_server
+all: build_echo_server
 
 build_echo_server:
-	gcc -ggdb -O0 -o echo_server echo_server.c
+	g++ -std=c++11 -ggdb -O0 -o echo_server echo_server.cpp
 
 build_server:
 	gcc -ggdb -O0 -o server server.c
